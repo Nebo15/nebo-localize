@@ -1,6 +1,6 @@
 # Nebo Localize
 
-Localization lubruary for sites that can't be localized on a back-end or back-end localization would be too expensive. Simply replaces all strings on a page with localized value. Also replaces value for input placeholders.
+Localization library for sites that can't be localized on a back-end or back-end localization would be too expensive. Simply replaces all strings on a page with localized value. Also replaces value for input placeholders.
  
 ### Example 
 ````
