@@ -1,17 +1,15 @@
 # Nebo Localize
 
-Simple library for localization. Localizetion is working by value of inner text of element or value in inputs. It also supports placeholder attribute.  
+Localization lubruary for sites that can't be localized on a back-end or back-end localization would be too expensive. Simply replaces all strings on a page with localized value. Also replaces value for input placeholders.
  
 ### Example 
 ````
+// Localization rules stored in JS object, as string -> localized string
+var lang = {
+ 'String in English': 'Localized string in different language',
+ 'Enter card': 'Entero cardo senioro',
+};
 
-
-    var lang = {
-         'key 1': 'Value for key 1',
-         'key 2': 'Value for key 2',
-     };
-     
-    // validate inputs on change event 
-    $.localize(lang);
-    
+// Replace all strings
+$.localize(lang);
 ````
