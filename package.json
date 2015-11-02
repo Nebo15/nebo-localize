@@ -1,0 +1,21 @@
+{
+  "name": "nebo-localize",
+  "version": "1.0.0",
+  "description": "localize",
+  "main": "src/localize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localize",
+    "i18n",
+    "jquery",
+    "html5",
+    "form"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "author": "Nebo15",
+  "license": "MIT"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "nebo-localize",
+  "description": "localize",
+  "main": "src/localize.js",
+  "authors": [
+    "Nebo15"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "localize",
+    "i18n",
+    "jquery",
+    "html5",
+    "form"
+  ],
+  "moduleType": [],
+  "dependencies": {
+    "jquery": ">2.0.0"
+  },
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
