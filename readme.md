@@ -1,5 +1,7 @@
 # Nebo Localize
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Nebo15/nebo-localize.svg)](https://greenkeeper.io/)
+
 Localization library for sites that can't be localized on a back-end or back-end localization would be too expensive. Simply replaces all strings on a page with localized value. Also replaces value for input placeholders.
  
 ### Example 
